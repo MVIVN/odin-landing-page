@@ -3,3 +3,23 @@
     margin: 0;
     padding: 0;
 }
+
+.header {
+    display: flex;
+}
+
+.main-section {
+    display: flex;
+}
+
+.burger-section {
+    display: flex;
+}
+
+.testimonials {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
