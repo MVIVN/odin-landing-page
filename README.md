@@ -3,3 +3,7 @@ The aim is to design a "real" homepage/landing page which looks like something a
 I have done a bit of research to make a landing page which looks modern and responsive, sticking to the assignment's main parameters, but also adding a bit of personal flair to make the website unique.
 
 Hero Burger image: copyright @brenkee on Pixababy. https://pixabay.com/users/brenkee-2021352/
+Beef Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/users/rajdeepcraft-15019006/
+Chicken Burger image: copyright @Jeff Vinluan on Pexels. pexels-jeff-vinluan-8553937.jpg
+Fish Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/users/rajdeepcraft-15019006/
+Vegan Burger image: copyright @Daria Shevtsova on Pexels. https://www.pexels.com/@daria/
