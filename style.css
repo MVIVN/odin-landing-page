@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,700;0,900;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Poppins:ital,wght@0,100;0,400;0,700;0,900;1,100&display=swap');
 
 * {
     box-sizing: border-box;
@@ -21,30 +21,60 @@ a {
     text-decoration: none;
     font-weight: 400;
     font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #405169;
+    border-radius: 12px;
+    padding: 6px;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 75px;
+    background-color: #1F2937;
 }
 
 .logo {
-    font-weight: 900;
+    font-family: Monoton, sans-serif;
+    font-weight: 400;
     font-size: 36px;
+    color: #F9FAF8;
+    margin-left: 24px;
 }
 
 .header ul li {
     display: inline-block;
+    margin-right: 24px;
 } 
 
-
-.main-section {
+.main-cards {
     display: flex;
+}
+
+.main-cards img {
+    border-radius: 12px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: 900;
 }
 
 .burger-section {
     display: flex;
+    justify-content: space-between;
+}
+
+.burger-section img {
+    border-radius: 12px;
+}
+
+.burger-cards {
+    width: 200px;
 }
 
 .testimonials {
