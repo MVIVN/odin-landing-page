@@ -126,6 +126,10 @@ a {
     width: 200px;
 }
 
+.burger-cards img:hover {
+    transform: scale(1.05);
+}
+
 
 /* Testimonia section */
 
