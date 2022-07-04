@@ -24,6 +24,10 @@ a {
     color: #E5E7EB;
 }
 
+
+/* Header section */
+
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -48,6 +52,10 @@ a {
     display: inline-block;
     margin-right: 24px;
 }
+
+
+/* Main section */
+
 
 .our-burgers {
     font-size: 28px;
@@ -97,6 +105,10 @@ a {
     background-color: rgb(228, 137, 80);
 }
 
+
+/* Burger section */
+
+
 .burger-section {
     display: flex;
     justify-content: space-between;
@@ -113,6 +125,10 @@ a {
 .burger-cards {
     width: 200px;
 }
+
+
+/* Testimonia section */
+
 
 .testimonials {
     display: flex;
@@ -131,6 +147,10 @@ a {
     align-self: flex-end;
     font-weight: 700;
 }
+
+
+/* Footer section */
+
 
 .footer {
     display: flex;
