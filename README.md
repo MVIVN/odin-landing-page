@@ -6,7 +6,7 @@ Hero Burger image: copyright @brenkee on Pixababy. https://pixabay.com/users/bre
 
 Beef Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/users/rajdeepcraft-15019006/
 
-Chicken Burger image: copyright @Jeff Vinluan on Pexels. pexels-jeff-vinluan-8553937.jpg
+Chicken Burger image: copyright @Jeff Vinluan on Pexels. https://www.pexels.com/@jeff-vinluan-20921030/
 
 Fish Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/users/rajdeepcraft-15019006/
 
