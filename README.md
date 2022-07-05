@@ -7,3 +7,4 @@ Beef Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/user
 Chicken Burger image: copyright @Jeff Vinluan on Pexels. pexels-jeff-vinluan-8553937.jpg
 Fish Burger image: copyright @rajdeepcraft on Pixababy. https://pixabay.com/users/rajdeepcraft-15019006/
 Vegan Burger image: copyright @Daria Shevtsova on Pexels. https://www.pexels.com/@daria/
+Favicon burger icon: copyright https://favicon.io/

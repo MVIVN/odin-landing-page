@@ -183,10 +183,22 @@ a {
     background-color: #3882f6;
     border: 2px solid #E5E7EB;
     padding: 6px 18px;
-    margin: 16px auto;
     border-radius: 6px;
 }
 
 .call-to-action button:hover {
     background-color: rgb(228, 137, 80);
+}
+
+.sign-options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.sign-options p {
+    margin-left: auto;
+    margin-right: 12px;
+    font-size: 14px;
 }
