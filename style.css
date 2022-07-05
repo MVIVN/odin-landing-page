@@ -61,13 +61,6 @@ a {
 /* Main section */
 
 
-.our-burgers {
-    font-size: 28px;
-    text-align: center;
-    margin: 36px;
-    color: #1F2937;
-}
-
 .main-section {
     background-color: #1F2937;
     color: #E5E7EB;
@@ -76,6 +69,7 @@ a {
 
 .main-cards {
     display: flex;
+    flex-wrap: wrap-reverse;
 }
 
 .main-cards img {
@@ -111,12 +105,20 @@ a {
 
 /* Burger section */
 
+.our-burgers {
+    font-size: 28px;
+    text-align: center;
+    margin: 36px;
+    color: #1F2937;
+}
+
 
 .burger-section {
     display: flex;
     justify-content: space-between;
     text-align: center;
     margin-bottom: 48px;
+    flex-wrap: wrap;
 }
 
 .burger-section img {
