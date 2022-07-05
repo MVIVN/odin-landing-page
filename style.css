@@ -36,7 +36,11 @@ a {
     background-color: #1F2937;
 }
 
-.logo {
+.header a:hover {
+    color: rgb(228, 137, 80);
+}
+
+.logo a {
     font-family: Monoton, sans-serif;
     font-weight: 400;
     font-size: 24px;
@@ -44,7 +48,7 @@ a {
     margin-left: 24px;
 }
 
-.logo:hover {
+.logo a:hover {
     color: rgb(228, 137, 80);
 }
 
@@ -90,14 +94,13 @@ a {
 }
 
 .hero-text p {
-    margin-bottom: 24px;
+    margin-bottom: 32px;
 }
 
 .hero-text button {
     background-color: #3882f6;
     border: 2px solid #E5E7EB;
     padding: 6px 18px;
-    margin: 16px auto;
     border-radius: 6px;
 }
 
