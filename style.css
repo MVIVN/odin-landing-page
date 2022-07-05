@@ -7,8 +7,14 @@
     font-family: Poppins, sans-serif;
 }
 
+body {
+    background-image: url(img/fast-food-bg-modified.jpg);
+    background-repeat: repeat;
+}
+
 .container {
     max-width: 1024px;
+    background-color: white;
     height: 100vh;
     margin: 0 auto;
 }
@@ -123,7 +129,7 @@ a {
 
 .burger-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     text-align: center;
     margin-bottom: 48px;
     flex-wrap: wrap;
